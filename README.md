@@ -1,6 +1,6 @@
-# FinQuest - Financial Literacy Game
+# EduFinance - Financial Literacy Game
 
-**FinQuest** is an interactive web-based game designed to teach financial literacy through gamification. Players progress through 8 levels, each focusing on different aspects of personal finance management.
+**EduFinance** is an interactive web-based game designed to teach financial literacy through gamification. Players progress through 8 levels, each focusing on different aspects of personal finance management.
 
 ---
 
@@ -88,3 +88,6 @@
 - **JavaScript**
 - **Google Fonts** (Press Start 2P)
 
+---
+
+## Created by Shreyash
